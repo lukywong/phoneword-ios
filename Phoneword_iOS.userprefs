@@ -1,11 +1,6 @@
 ﻿<Properties StartupItem="Phoneword_iOS/Phoneword_iOS.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.9.3" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_iOS/ViewController.cs">
-    <Files>
-      <File FileName="Phoneword_iOS/ViewController.cs" Line="42" Column="5" />
-      <File FileName="Phoneword_iOS/CallHistoryController.cs" Line="18" Column="31" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
